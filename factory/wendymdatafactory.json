@@ -1,0 +1,9 @@
+{
+	"name": "wendymdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "916366b1-4a41-48dc-9d3f-b9d1bd4dca35",
+		"tenantId": "dbcc7521-edfc-4af3-95e5-c50fc5eb36ba"
+	}
+}
